@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<widget xmlns="http://www.w3.org/ns/widgets" 
+	xmlns:gap="http://phonegap.com/ns/1.0" 
+	id="org.cambridgemun" 
+	version="1.0.0">
+	
+    <name>
+        CAMUN 2016
+    </name>
+        <description>
+        In order to develop outstanding and sustaining leadership and communication skills, MUN was introduced in 2008 at the Cambridge High School, Abu Dhabi as an extra-curricular club activity. Starting with just 8 students, we presently have 150 and MUN in the school has grown from being a small part of our activities programme, to being a seminal influence on our students’ learning, as they develop various skills to become articulate, forceful leaders.
+    </description>
+
+    <author href="http://www.cambridgemun.org" email="lavesh@cambridgemun.org">
+        Lavesh Panjwani
+    </author>
+    
+<preference name="phonegap-version" value="3.5.0" />
+    
+<content src="index.html" />
+
+    
+
+<preference name="stay-in-webview" value="false" />
+<gap:plugin name="org.apache.cordova.inappbrowser" />
+<access origin="*" subdomains="true" browserOnly="true"/>
+    
+    
+    <icon src="images/logo.png" width="160" height="92" />
+    
+    
+   <plugin name="org.apache.cordova.statusbar" spec="0.1.4" source="pgb" />
+    <preference name="StatusBarBackgroundColor" value="#07BEE5" />
+
+    <plugin name="com.boyvanderlaak.cordova.plugin.orientationchanger" spec="0.1.1" source="pgb" />
+    
+</widget>
