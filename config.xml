@@ -16,6 +16,9 @@
     </author>
     
 <preference name="phonegap-version" value="3.5.0" />
+
+<preference name="android-build-tool" value="gradle" />
+
     
 <content src="index.html" />
 
