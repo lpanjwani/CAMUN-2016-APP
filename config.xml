@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.cambridgemun" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="org.cambridgemun" version="1.0.0">
   <name>CAMUN 2016</name>
   <description> In order to develop outstanding and sustaining leadership and communication skills, MUN was introduced in 2008 at the Cambridge High School, Abu Dhabi as an extra-curricular club activity. Starting with just 8 students, we presently have 150 and MUN in the school has grown from being a small part of our activities programme, to being a seminal influence on our students’ learning, as they develop various skills to become articulate, forceful leaders.</description>
   <author href="http://www.cambridgemun.org" email="laveh@cambridgemun.org">Lavesh Panjwani</author>
